@@ -26,8 +26,6 @@
 
 
 
-🖥️ [Lab](https://valid.x86.fr/s10cxv) - [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/) + HyperV
-
-💻 [Testing]() - Debian + XenProject
-
-💻 [Personal Use]() - [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]
+🖥️ [Lab](https://valid.x86.fr/s10cxv) - [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/) + HyperV <br />
+💻 [Testing]() - Debian + XenProject  <br />
+💻 [Personal Use]() - [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
