@@ -4,10 +4,12 @@
 🇮🇳 	♂️ (He/ Him)
 
 <br />
-[![Twitter Follow](https://img.shields.io/twitter/follow/TanoyBose?style=social)](https://twitter.com/intent/follow?screen_name=TanoyBose) 
-[![GitHub followers](https://img.shields.io/github/followers/n0tty?label=Follow&style=social)](https://github.com/n0tty) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
-[![Website](https://img.shields.io/website?down_color=red&down_message=https%3A%2F%2Fgithub.com%2Fn0tty%2Fn0tty.github.io&up_color=green&up_message=Shellcoder%27s%20Party&url=https%3A%2F%2Fshellcoder.party)](https://shellcoder.party/) 
+
+[![Twitter](https://img.shields.io/twitter/follow/TanoyBose?style=social)](https://twitter.com/intent/follow?screen_name=TanoyBose) 
+[![GitHub](https://img.shields.io/github/followers/n0tty?label=Follow&style=social)](https://github.com/n0tty) 
+<img src="https://repo.shellcoder.party/images/logos/medium.png" width="20"></a>
+[![Medium](https://img.shields.io/badge/Medium-%40n0tty-blue)](https://medium.com/@n0tty) 
+[![Website](https://img.shields.io/badge/Shellcoder-Party-orange)](https://shellcoder.party/) 
 [![Instagram](https://www.instagram.com/static/images/ico/favicon.svg/fc72dd4bfde8.svg)](https://www.instagram.com/boseintheshellcode/)
 
 
@@ -25,6 +27,6 @@
 
 
 
-🖥️ [Lab Rig](https://valid.x86.fr/s10cxv) - Windows + HyperV
-💻 [Testing Rig]() - Debian + XenProject
-💻 [Personal Use]() - Arch Linux
+🖥️ [Lab Rig](https://valid.x86.fr/s10cxv) - <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> + HyperV <br />
+💻 [Testing Rig]() - Debian + XenProject <br />
+💻 [Personal Use]() - <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>  <br />
